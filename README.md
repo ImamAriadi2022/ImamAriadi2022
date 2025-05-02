@@ -1,4 +1,17 @@
-# 💫 About Me:
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ImamAriadi2022.ImamAriadi2022&"  />
+</div>
+
+###
+## 💫 About Me:
 Hallo world! my name is Imam Ariadi
 
 
@@ -23,19 +36,7 @@ Hallo world! my name is Imam Ariadi
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ImamAriadi2022.ImamAriadi2022&"  />
-</div>
-
-###
 
 <img src="https://raw.githubusercontent.com/ImamAriadi2022/ImamAriadi2022/output/snake.svg" alt="Snake animation" />
 
