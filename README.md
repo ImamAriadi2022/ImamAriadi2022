@@ -25,11 +25,8 @@ Hallo world! my name is Imam Ariadi
 ![](https://nirzak-streak-stats.vercel.app/?user=ImamAriadi2022&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ImamAriadi2022&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ImamAriadi2022&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ImamAriadi2022&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ImamAriadi2022&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -40,12 +37,3 @@ Hallo world! my name is Imam Ariadi
 
 <img src="https://raw.githubusercontent.com/ImamAriadi2022/ImamAriadi2022/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31wa6lw5i462mjhsx4mgebgie57a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wa6lw5i462mjhsx4mgebgie57a&count=8&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
